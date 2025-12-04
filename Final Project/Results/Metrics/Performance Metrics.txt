@@ -1,0 +1,11 @@
+Model Performance Metrics (Test Set — Updated)
+
+Linear Regression:
+- MAE: 1.141
+- RMSE: 2.068
+- R²: 0.7969
+
+Random Forest Regressor:
+- MAE: 1.152
+- RMSE: 2.235
+- R²: 0.7627
